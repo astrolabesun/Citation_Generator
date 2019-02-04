@@ -9,9 +9,9 @@ home function: generates the home page view of the citation generator
 '''
 
 
-def home():
+def home(request):
     template = loader.get_template('citationapp/home.html')
-    return template
+    return HttpResponse(template.render())
 
 
 '''
