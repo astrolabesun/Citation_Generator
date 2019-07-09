@@ -14,3 +14,6 @@ templates are ready.
 ### February 04, 2019
 Setting up templates for Home page view and Citation History views. Just fixed a minor rendering bug for
 home page.
+
+### July 07, 2019
+Project delayed/on hold due to external obligations with other projects. Sorry.
