@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # React stuff
 .DS_STORE
@@ -139,3 +140,5 @@ packages/react-devtools-extensions/firefox/*.pem
 packages/react-devtools-extensions/shared/build
 packages/react-devtools-inline/dist
 packages/react-devtools-shell/dist
+=======
+>>>>>>> 5133643de91d1dff2ee31b1a4a931d033e33ea03
